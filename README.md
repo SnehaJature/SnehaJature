@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/c19Iw7khRgEJ92DPFb2HwJVQWCu7isrm5bNzTmEatmE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9o/dG1sLXN5c3RlbS13/ZWJzaXRlLWNvbmNl/cHRfMjMtMjE1MDM3/Njc3MC5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw)]
+[![MasterHead](https://imgs.search.brave.com/WlvKBxDivE6GE9bsBqJ6uzrILJji1A_JNTGCeUijVlY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9w/cm9ncmFtbWluZy1i/YWNrZ3JvdW5kLXdp/dGgtcGVyc29uLXdv/cmtpbmctd2l0aC1j/b2Rlcy1jb21wdXRl/cl8yMy0yMTUwMDEw/MTI1LmpwZz9zaXpl/PTYyNiZleHQ9anBn)]
 <h1 align="center">Hi 👋, I'm Sneha Jature</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
