@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Jature</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53992235/149777950-0a9fb0c0-b738-4834-a0b5-aa2ab7ba18a2.gif"/>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=snehajature&label=Profile%20views&color=0e75b6&style=flat"
