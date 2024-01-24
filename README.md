@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **snehajature@gmail.com**
 
-- 📄 Know about my experiences
-[https://drive.google.com/file/d/1Rm058ELecrLlXYpo4bV9pD6D3UvO25yZ/view?usp=sharing](https://drive.google.com/file/d/1Rm058ELecrLlXYpo4bV9pD6D3UvO25yZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
