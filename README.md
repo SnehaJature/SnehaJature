@@ -14,7 +14,7 @@
 - ☁️ Familiar with API Gateway, Eureka Server and Microservices Architecture
 - 🌱 Currently learning **React.js** and improving Full Stack Development
 - 💡 Interested in Backend Development, System Design and GenAI
-- 📫 Reach me at **snehajature@gmail.com**
+- 📫 Reach me at **snehajature45@gmail.com**
 
 ---
 
