@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 - 💼 Software Engineer at **Capgemini**
-- ☕ 1.5+ years of experience in Java Backend Development
+- ☕ 1.8+ years of experience in Java Backend Development
 - 🚀 Building scalable REST APIs and Microservices using Spring Boot
 - 🔐 Experience with Spring Security & JWT Authentication
 - 🗄️ Working with MySQL, Spring Data JPA & Hibernate
