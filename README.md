@@ -54,26 +54,29 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 Bank Account Management System
-- Microservices Architecture
-- JWT Authentication
-- Spring Security
-- API Gateway
-- Eureka Server
-- MySQL
-- Angular
+### 🛡️ [Ledger Sentinel - Real-Time Transaction Fraud Detection](https://github.com/SnehaJature/transection-fraud-detection)
+- Java 17+ and Spring Boot
+- Rule-based transaction risk scoring
+- Kafka transaction ingestion integration
+- Redis-ready low-latency lookups
+- REST API and live monitoring dashboard
+- H2, Maven, and JUnit 5
 
-### ✈️ Airline Management System
-- Spring Boot
-- REST APIs
-- Spring Data JPA
-- MySQL
+### 📦 [Order Orchestration System](https://github.com/SnehaJature/Order_Orchestration_System)
+- Event-driven Saga orchestration
+- Order, Inventory, Payment, and Shipping boundaries
+- Apache Kafka and Kafka UI
+- PostgreSQL and H2 local development profile
+- Idempotency and retry handling
+- Docker Compose deployment topology
 
-### 🏙️ Smart City Management System
-- Java
-- Spring Boot
-- REST APIs
-- GenAI Integration
+### 🤖 [AI-Powered Code Review & PR Assistant](https://github.com/SnehaJature/ai-powered-code-review-pr-assistant)
+- Java 17 and Spring Boot 3
+- Angular 18 and TypeScript dashboard
+- Anthropic Claude integration for pull request reviews
+- Signed GitHub webhook validation
+- GitHub REST API inline review comments
+- Spring Security, Actuator, Maven, and JUnit 5
 
 ---
 
